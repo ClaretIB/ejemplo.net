@@ -1,0 +1,10 @@
+C:\Users\Claret\Documents\UNIVERSIDAD\III\Lenguajes\Labs\LenguajesLabsASPdotNet\LibreriaCeibaB43478\bin\Debug\LibreriaCeibaB43478.dll
+C:\Users\Claret\Documents\UNIVERSIDAD\III\Lenguajes\Labs\LenguajesLabsASPdotNet\LibreriaCeibaB43478\bin\Debug\LibreriaCeibaB43478.pdb
+C:\Users\Claret\Documents\UNIVERSIDAD\III\Lenguajes\Labs\LenguajesLabsASPdotNet\LibreriaCeibaB43478\obj\Debug\LibreriaCeibaB43478.csprojResolveAssemblyReference.cache
+C:\Users\Claret\Documents\UNIVERSIDAD\III\Lenguajes\Labs\LenguajesLabsASPdotNet\LibreriaCeibaB43478\obj\Debug\LibreriaCeibaB43478.dll
+C:\Users\Claret\Documents\UNIVERSIDAD\III\Lenguajes\Labs\LenguajesLabsASPdotNet\LibreriaCeibaB43478\obj\Debug\LibreriaCeibaB43478.pdb
+C:\Users\Claret\Documents\UNIVERSIDAD\III\Lenguajes\LaboratoriosC#\LenguajesLabsASPdotNet\LibreriaCeibaB43478\bin\Debug\LibreriaCeibaB43478.dll
+C:\Users\Claret\Documents\UNIVERSIDAD\III\Lenguajes\LaboratoriosC#\LenguajesLabsASPdotNet\LibreriaCeibaB43478\bin\Debug\LibreriaCeibaB43478.pdb
+C:\Users\Claret\Documents\UNIVERSIDAD\III\Lenguajes\LaboratoriosC#\LenguajesLabsASPdotNet\LibreriaCeibaB43478\obj\Debug\LibreriaCeibaB43478.csprojResolveAssemblyReference.cache
+C:\Users\Claret\Documents\UNIVERSIDAD\III\Lenguajes\LaboratoriosC#\LenguajesLabsASPdotNet\LibreriaCeibaB43478\obj\Debug\LibreriaCeibaB43478.dll
+C:\Users\Claret\Documents\UNIVERSIDAD\III\Lenguajes\LaboratoriosC#\LenguajesLabsASPdotNet\LibreriaCeibaB43478\obj\Debug\LibreriaCeibaB43478.pdb
